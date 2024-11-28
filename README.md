@@ -35,4 +35,3 @@ your-repo-name/
 ├── build.gradle             # If using Gradle
 ├── pom.xml                  # If using Maven
 └── LICENSE
-
